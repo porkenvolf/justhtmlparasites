@@ -198,7 +198,10 @@ main {
   .donation{
     background: rgba(20, 20, 20,1);
   }
-  .welcome,.aboutArt,.donation,.roadmap,.team,.faq{
+  .aboutUs{
+    background: rgba(29, 29, 29,1);
+  }
+  .welcome,.aboutArt,.donation,.roadmap,.aboutUs,.faq{
     position: relative;
     width: 100%;
     padding: 1em;
